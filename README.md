@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @MrMeisterLabs
-- 👀 I’m interested in Python, Terraform and Kubernetes and all things Public Cloud
-- 🌱 I’m currently learning Kubernetes
-- 💞️ I’m looking to collaborate on Terraform development for Cloud Infrastructure management.
+Hi, I’m @MrMeisterLabs
+
+I’m interested in Cloud and Platform Security
+
+I’m currently learning Kubernetes
+
+I’m looking to collaborate on Security Operations Automation
